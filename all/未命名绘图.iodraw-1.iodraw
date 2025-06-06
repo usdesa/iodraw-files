@@ -43,6 +43,9 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-8" target="ll3jrb4IZtHmXltXXOVv-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-8" target="ll3jrb4IZtHmXltXXOVv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-8" value="联系人管理" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -56,6 +59,9 @@
           <mxGeometry x="-270" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-20" value="编辑" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-22" value="删除" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
