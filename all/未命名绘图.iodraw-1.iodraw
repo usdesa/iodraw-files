@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-4" value="主界面显示" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-8" target="ll3jrb4IZtHmXltXXOVv-18">
           <mxGeometry relative="1" as="geometry" />
@@ -65,13 +65,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-16" value="拨号功能" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-18" value="添加&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-340" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="-380" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-20" value="编辑" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-220" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="-230" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-22" value="删除" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="610" width="120" height="60" as="geometry" />
