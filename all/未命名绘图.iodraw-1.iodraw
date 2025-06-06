@@ -73,6 +73,9 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-20" value="编辑" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-220" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-22" target="ll3jrb4IZtHmXltXXOVv-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-22" value="删除" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -85,11 +88,17 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-34" value="最近记录" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-36" target="ll3jrb4IZtHmXltXXOVv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-36" value="输入联系人信息" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-360" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-38" value="选择联系人确认" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-41" value="信息验证" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
