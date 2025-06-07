@@ -162,10 +162,10 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-68" value="联系人详细信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-140" y="1330" width="1020" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ll3jrb4IZtHmXltXXOVv-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="1050" as="sourcePoint" />
-            <mxPoint x="50" y="1000" as="targetPoint" />
+            <mxPoint x="20" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
