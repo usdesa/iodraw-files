@@ -228,6 +228,9 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-83" value="拨打电话" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="1625" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-85" target="ll3jrb4IZtHmXltXXOVv-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-85" value="是否返回主页" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="1492.5" width="120" height="65" as="geometry" />
         </mxCell>
@@ -259,8 +262,14 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-96" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="1428" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ll3jrb4IZtHmXltXXOVv-100" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="1820" width="140" height="80" as="geometry" />
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-100" value="是否退出应用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="1825" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1860" as="sourcePoint" />
+            <mxPoint x="350" y="1810" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
