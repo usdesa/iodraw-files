@@ -198,8 +198,11 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-75" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-240" y="920" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ll3jrb4IZtHmXltXXOVv-77" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="5" y="868" width="50" height="30" as="geometry" />
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-77" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="15" y="868" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-78" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="75" y="788" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
