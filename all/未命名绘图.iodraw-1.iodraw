@@ -94,11 +94,6 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-36" value="输入联系人信息" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-360" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ll3jrb4IZtHmXltXXOVv-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="790" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-38" value="选择联系人确认" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="650" width="120" height="60" as="geometry" />
         </mxCell>
@@ -117,8 +112,8 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-53" value="保存到数据库" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-360" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ll3jrb4IZtHmXltXXOVv-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-315" y="1008" width="50" height="30" as="geometry" />
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-55" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-305" y="1008" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
