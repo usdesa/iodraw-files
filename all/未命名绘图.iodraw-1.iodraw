@@ -219,8 +219,8 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-83" value="拨打电话" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="1625" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ll3jrb4IZtHmXltXXOVv-85" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="1485" width="80" height="80" as="geometry" />
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-85" value="是否返回主页" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="1485" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
