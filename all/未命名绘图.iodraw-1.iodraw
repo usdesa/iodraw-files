@@ -82,6 +82,9 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-29" value="搜索" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-31" target="ll3jrb4IZtHmXltXXOVv-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-31" value="收藏夹" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -126,6 +129,9 @@
         </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-58" value="从数据库删除" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-60" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
