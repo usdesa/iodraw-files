@@ -153,7 +153,7 @@
             <mxPoint x="290" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ll3jrb4IZtHmXltXXOVv-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-68" target="ll3jrb4IZtHmXltXXOVv-79">
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-68" target="ll3jrb4IZtHmXltXXOVv-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-68" value="联系人详细信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -207,8 +207,8 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-78" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="75" y="788" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ll3jrb4IZtHmXltXXOVv-79" value="是否拨号" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="1470" width="120" height="60" as="geometry" />
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-81" value="是否拨号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="1500" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
