@@ -88,6 +88,9 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-31" value="收藏夹" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-34" target="ll3jrb4IZtHmXltXXOVv-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-34" value="最近记录" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -132,6 +135,9 @@
         </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-60" value="查看收藏详情" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-62" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
