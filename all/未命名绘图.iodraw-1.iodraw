@@ -147,16 +147,10 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-62" value="查看记录详情" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="620" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ll3jrb4IZtHmXltXXOVv-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.583;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-53" target="ll3jrb4IZtHmXltXXOVv-62">
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.583;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-53" target="ll3jrb4IZtHmXltXXOVv-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-290" y="1150" as="sourcePoint" />
             <mxPoint x="290" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-200" y="1210" />
-              <mxPoint x="310" y="1210" />
-              <mxPoint x="740" y="1210" />
-              <mxPoint x="730" y="1090" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ll3jrb4IZtHmXltXXOVv-68" value="联系人详细信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -174,7 +168,7 @@
             <mxPoint x="210" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ll3jrb4IZtHmXltXXOVv-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.578;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-60" target="ll3jrb4IZtHmXltXXOVv-68">
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.578;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ll3jrb4IZtHmXltXXOVv-60" target="ll3jrb4IZtHmXltXXOVv-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="710" as="sourcePoint" />
             <mxPoint x="290" y="930" as="targetPoint" />
