@@ -139,6 +139,12 @@
         <mxCell id="ll3jrb4IZtHmXltXXOVv-62" value="查看记录详情" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ll3jrb4IZtHmXltXXOVv-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1140" as="sourcePoint" />
+            <mxPoint x="280" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
